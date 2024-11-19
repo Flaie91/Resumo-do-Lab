@@ -1,5 +1,6 @@
 **Microsoft Azure**
 # **Computação em nuvem**
+**Desafio de Projeto 1**
 
 - O que é computação em nuvem?
   - A **computação em nuvem** é a prestação de serviços de computação através da Internet, os serviços em nuvem também expandem as ofertas tradicionais de TI para incluir coisas como Internet das Coisas (IoT), aprendizado de máquina (ML) e inteligência artificial (IA). habilitando inovações mais rápidas, recursos flexíveis e economia, pois não precisa depender de infraestrutura física.
@@ -18,7 +19,7 @@
     - Não fornece acesso aos usuários fora da organização.
   - Híbrido.
     - Combina nuvens públicas e privadas para permitir que os aplicativos sejam executados no local mais adequado.
-  - MultCloud.
+  - MultiCloud.
     - Combina nuvens públicas e privadas e trabalhando o uso de serviços da cloud de dois ou mais fornecedores, (como AWS, Microsoft Azure, etc). Teremos assim uma maior variedade de recursos e escalabilidade e menos dependência de um serviço ou de fornecedor.
 - Custo de capital versus custo operacional
   - Modelo baseado no consumo.
@@ -34,4 +35,24 @@
       - Gastos com produtos e serviços necessários. Energia, manutenção, reposições, recursos em nuvens, etc.
       - O valor é cobrado de imediato
 
+**Desafio de Projeto 2**
 
+- Benefícios da nuvem.
+  - Alta disponibilidade.
+    - SLA – Garante o máximo possível de disponibilidade (99%, 99,99%, etc.) se não for cumprido, independentemente de quais interrupções ou eventos que possam ocorrer, vai ser dado uma compensação ou crédito de acordo com o contrato.
+  - Escalabilidade.
+    - E a capacidade de ajustar recursos para atender as demandas; tanto quando a demanda aumenta, como quando ela cai, o que reduziria os custos.
+    - Escalabilidade Vertical – Aumento da capacidade de processamento, memória.
+  - Elasticidade.
+    - Se houver um aumento repentino na demanda, os recursos também sobem de acordo com a demanda. Podendo ser programado o aumento ou diminuição dos recursos de acordo com a demanda (de modo manual ou automático).
+  - Confiabilidade.
+    - Por ser descentralizado, em diversas regiões, tem mais garantia de confiabilidade, o que envolve a capacidade de recuperação rápida.
+  - Previsibilidade.
+    - A garantia de que podemos saber que em todo momento, poderemos confiar nos recursos, no desempenho e quais serão os custos.
+  - Segurança.
+    - Os serviços em nuvem oferecem ferramentas de segurança, mas cabe ao cliente implementar as regras que serão seguidas, incluindo gerenciamento dois sistemas operacionais, software, bem como as atualizações e manutenção destes.
+  - Governança.
+    - Regras e padrões que irão gerir empresa. Como por exemplo: patches serão aplicados automaticamente? Quais as regras de negócio?
+    - As regras podem ser da empresa ou referente a prestação de contas com outros.
+  - Gerenciabilidade.
+    - Ampla disponibilidade de mecanismos para gerenciamento (como por CLI, Aplicativos, etc.). Podendo ter modelos prontos para agilizar e evitar erros.
