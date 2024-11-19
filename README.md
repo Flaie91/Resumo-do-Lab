@@ -56,3 +56,19 @@
     - As regras podem ser da empresa ou referente a prestação de contas com outros.
   - Gerenciabilidade.
     - Ampla disponibilidade de mecanismos para gerenciamento (como por CLI, Aplicativos, etc.). Podendo ter modelos prontos para agilizar e evitar erros.
+
+**Desafio de Projeto 3**
+
+- Tipos de Serviços em nuvem.
+  - IaaS – Infraestrutura como Serviço.
+    - Maior controle, maiores possibilidades visto que configura e gerencia o hardware.
+    - Exemplos: Servidores e armazenamento, Firewalls/segurança de rede, Planta física do datacenter. – Tudo na nuvem.
+  - PaaS – Plataforma como Serviço.
+    - Menor controle, visto que o gerenciamento da plataforma é feito pelo provedor, mas exigirá menos esforços, e toda a atenção se concentrará no desenvolvimento de aplicativos.
+    - Exemplos: Sistemas operacionais, ferramentas para desenvolvedores, banco de dados.
+  - SaaS – Software como Serviço.
+    - Menor controle de todos. Pagamento de acordo com o uso e a assinatura. O que vai determinar ao que o usuário tem acesso, é o plano escolhido.
+    - Exemplos: Aplicativos e apps hospedados.
+- Modelo de responsabilidade compartilhada.
+
+![](Aspose.Words.7c18acd0-c6e6-48f5-8efe-67bff0d5fa8b.001.png)
